@@ -65,6 +65,3 @@ http             64860 failed attempts
 smtp              5145 failed attempts
 [4] Possible data exfiltration:
 [normal] telnet — 2,661,605 bytes out
-
-## Resume Bullet
-> Built a network intrusion log analyser in Python + MariaDB, parsing 50,000+ records from the KDD Cup 99 dataset and detecting port scans, brute-force attempts, and exfiltration suspects using SQL anomaly queries.
